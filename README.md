@@ -51,6 +51,30 @@ Query Caching
 
 Logging
 
+Sweeping
+
+Exceptions
+
+Flash
+
+Params Wrapper
+
+Streaming
+
+Rendering
+
+Middlewares
+
+HTTP request, response
+
+Routing
+
+Templates/ layouts/ Views/ Partials
+
+View Helpers
+
+Rake tasks
+
 Single Table Inheritance
 
 Cache Stores
