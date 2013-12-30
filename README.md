@@ -8,7 +8,6 @@ Concepts :
 
 Models:
   Validations
-  
   Custom Validators
   Callbacks
   Associations
@@ -25,5 +24,18 @@ Aggregations
 Query Caching
 Logging
 Single Table Inheritance
+Cache Stores
+Rails Version of Arrays
+Rails Version of Big Decimal
+Rails Version of Date
+Rails Version of Date Time
+Rails Version of File
+Rails Version of Hash
+Rails Version of Integer
+Rails Version of Numeric
+Rails Version of Object
+Rails Version of String
+Rails Version of Time
+autoload
 
 Observers
