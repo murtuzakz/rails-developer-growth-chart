@@ -27,6 +27,18 @@ DB Adapters
 
 Generators
 
+Eager Loading
+
+Rspec (or unit testing in genral)
+
+Notification API
+
+Localization
+
+Asset Pipelining
+
+Render
+
 Migrations
 
 Dynamic Methods
