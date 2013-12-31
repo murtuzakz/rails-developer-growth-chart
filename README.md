@@ -1,5 +1,5 @@
-rails-developer-growth-chart
-============================
+#Rails Developer Growth Chart
+
 
 A growth chart of sorts, trying to place concepts of Rails under buckets of years of Experience. Hope to help out developers learn that next concept and climb the ladder of Rails expertise.
 
@@ -8,18 +8,17 @@ Concepts :                                      Experience Bracket (in years) (N
 
 Models:
 
-  Validations
+Validations
 
-  Custom Validators
+Custom Validators
 
-  Callbacks
+Callbacks
 
-  Associations
+Associations
 
-  Polymorphic Associations
+Polymorphic Associations
 
-
-  Raw Queries
+Raw Queries
 
 Serialization
 
@@ -29,7 +28,7 @@ Generators
 
 Eager Loading
 
-Rspec (or unit testing in genral)
+Rspec (or unit testing in general)
 
 Notification API
 
@@ -44,6 +43,8 @@ Migrations
 Dynamic Methods
 
 Scopes
+
+Observers
 
 Aggregations
 
@@ -83,4 +84,3 @@ Rails Version of Object, String,Time,Numeric, Integer,Hash, Arrays, Big Decimal,
 
 autoload
 
-Observers
