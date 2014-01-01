@@ -84,3 +84,9 @@ Rails Version of Object, String,Time,Numeric, Integer,Hash, Arrays, Big Decimal,
 
 autoload
 
+ActionMailer
+
+Rails Engines
+
+Rake Tasks
+
