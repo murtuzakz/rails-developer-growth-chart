@@ -80,7 +80,7 @@ Single Table Inheritance
 
 Cache Stores
 
-Rails Version of Object, String,Time,Numeric, Integer,Hash, Arrays, Big Decimal, Date, DateTime, File
+Rails Version of Object, String,Time,Numeric, Integer, Hash, Arrays, Big Decimal, Date, DateTime, File
 
 autoload
 
@@ -89,4 +89,3 @@ ActionMailer
 Rails Engines
 
 Rake Tasks
-
